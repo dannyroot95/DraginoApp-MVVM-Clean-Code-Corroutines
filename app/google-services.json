@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383433519582",
+    "firebase_url": "https://lora-gateway-9e4ca-default-rtdb.firebaseio.com",
+    "project_id": "lora-gateway-9e4ca",
+    "storage_bucket": "lora-gateway-9e4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383433519582:android:46f8633bbddc260b416d4f",
+        "android_client_info": {
+          "package_name": "com.electric.dragino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383433519582-offj3n6q077t46ajcua1ioblrlo7rf4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.electric.dragino",
+            "certificate_hash": "0b73f81e8690a147c80e92304134f0481fbcd268"
+          }
+        },
+        {
+          "client_id": "383433519582-m1mmdosj79ja5ji9lavi4llgt28ihrgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqpwRJUvgyiWrXhoLfLRzS7Ed_C6v3o-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383433519582-m1mmdosj79ja5ji9lavi4llgt28ihrgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
